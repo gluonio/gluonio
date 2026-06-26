@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hallo, Selamat Datang! 👋
+Perkenalkan, Saya Nuryana Saepul Ramdan, seseorang yang tertarik untuk belajar Analisis Data dan Machine Learning.
+Anda bisa menghubungi saya melalui [LinkedIn](linkedin.com/in/nuryanasaepulramdan).
 <!--
 **gluonio/gluonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
